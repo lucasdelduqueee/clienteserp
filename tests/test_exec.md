@@ -10,7 +10,7 @@ Este arquivo apresenta a execução simulada dos testes automatizados definidos 
 php artisan test
 
 
-  # PASS  Tests\Feature\ClienteTest
+  # PASS  Tests\ClienteTest
   ✓ testCadastroValidoComUsuarioAutenticado
   ✓ testCadastroValidoComUsuarioNaoAutenticado
   ✓ testCadastroComCamposObrigatoriosEmBranco
