@@ -19,7 +19,7 @@ Este projeto Laravel contém testes automatizados para validar a funcionalidade 
 ```bash
 git clone https://github.com/seu-usuario/clienteserp
 .git
-cd cliente-testes
+cd clienteserp
 cp .env.example .env
 composer install
 php artisan key:generate
