@@ -17,7 +17,8 @@ Este projeto Laravel contém testes automatizados para validar a funcionalidade 
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/cliente-testes.git
+git clone https://github.com/seu-usuario/clienteserp
+.git
 cd cliente-testes
 cp .env.example .env
 composer install
