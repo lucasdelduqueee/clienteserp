@@ -1,6 +1,6 @@
 # ✅ Execução dos Testes Automatizados
 
-Este arquivo apresenta a execução simulada dos testes automatizados definidos na suíte `tests/Feature/ClientTest.php` no projeto Laravel.
+Este arquivo apresenta a execução simulada dos testes automatizados definidos na suíte `tests/ClientTest.php` no projeto Laravel.
 
 ---
 
